@@ -6,7 +6,7 @@ This repertory is reserved to resume the recent techniques of model explanation 
  
  **Deep Learning**
  * Saliency maps from network graient.
- * DeConvNet.
+ * DeConvNet: try to reconsruct input from output
  * Guided BackProp.
  * Layer wise Relevance Propagation. 
  * Deep Taylor Decomposition. 
